@@ -26,7 +26,7 @@ namespace Memory
                 
                 Console.WriteLine("RunTime: " + Math.Round(stopWatch.Elapsed.TotalMilliseconds));
             
-            }
+        }
        
     }
 }
